@@ -1,0 +1,14 @@
+{
+    "name":"dm23",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "pomelo":"1.1.6",
+		"generic-pool": ">=1.0.9",
+		"pomelo-sync-plugin": "0.0.1",
+		"pomelo-logger": "0.0.3",
+		"async": ">=0.0.1",
+		"mysql": ">=2.0"
+    }
+}
+

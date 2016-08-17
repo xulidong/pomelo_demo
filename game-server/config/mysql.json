@@ -1,0 +1,17 @@
+{
+	"development": {
+	  "host" : "192.168.10.126",
+		"port" : "3306",
+		"database" : "dm23",
+		"user" : "dm23",
+		"password" : "123456"
+	},
+
+	"production": {
+	  "host" : "127.0.0.1",
+		"port" : "3306",
+		"database" : "Pomelo",
+		"user" : "xy",
+		"password" : "dev"
+	}
+}
